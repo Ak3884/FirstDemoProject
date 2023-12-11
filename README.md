@@ -1,4 +1,4 @@
 # FirstDemoProject
 this is my first git repository
 <br>
-Author - Amit Kumar
+Author - Amit Kumar (Developer)
